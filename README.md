@@ -1,2 +1,2 @@
 # hello-world
-exercicio para fixação
+Exercício para fixação
